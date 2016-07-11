@@ -6,6 +6,7 @@ public class Main {
 		MathOperations mathOp = new MathOperations(5, 7);
 		mathOp.add();
 		System.out.println("Finish");
+		System.out.println("After Finish");
 	}
 
 }
