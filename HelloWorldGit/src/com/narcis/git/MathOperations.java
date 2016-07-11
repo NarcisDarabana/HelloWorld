@@ -14,6 +14,11 @@ public class MathOperations {
 		System.out.println("Sum of " + x + " and " + y + " is: " + sum);
 	}
 	
+	public void multiple() {
+		int multp = this.x * this.y;
+		System.out.println("Multiplication of " + x + " and " + y + " is: " + multp);
+	}
+	
 	public void substraction(){
 		int substraction = this.x - this.y;
 		System.out.println("The difference between " + x + " and " + y + " is: " + substraction);
