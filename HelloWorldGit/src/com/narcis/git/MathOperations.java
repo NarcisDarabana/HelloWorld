@@ -13,4 +13,9 @@ public class MathOperations {
 		int sum = this.x + this.y;
 		System.out.println("Sum of " + x + " and " + y + " is: " + sum);
 	}
+	
+	public void multiple() {
+		int multp = this.x * this.y;
+		System.out.println("Multiplication of " + x + " and " + y + " is: " + multp);
+	}
 }
