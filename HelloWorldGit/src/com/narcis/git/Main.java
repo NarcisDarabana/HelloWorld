@@ -7,6 +7,7 @@ public class Main {
 		mathOp.add();
 		System.out.println("Finish");
 		System.out.println("After Finish");
+		System.out.println("LA LA LA");
 	}
 
 }
