@@ -13,4 +13,9 @@ public class MathOperations {
 		int sum = this.x + this.y;
 		System.out.println("Sum of " + x + " and " + y + " is: " + sum);
 	}
+	
+	public void substraction(){
+		int substraction = this.x - this.y;
+		System.out.println("The difference between " + x + " and " + y + " is: " + substraction);
+	}
 }
