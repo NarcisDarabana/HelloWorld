@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Finish");
 		System.out.println("After Finish");
 		System.out.println("LA LA LA");
+		System.out.println("E ora 16:53! Hai acasa:))!");
 	}
 
 }
